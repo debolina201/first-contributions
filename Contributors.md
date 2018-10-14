@@ -5,6 +5,7 @@
 - [Franklin Wang](https://github.com/fxwang)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
+- [Debolina Mahapatra] (https://github.com/debolina201)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [ClariSLover](https://github.com/s973125108)
